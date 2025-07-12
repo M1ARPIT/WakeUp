@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591775893469",
+    "project_id": "wakeup-b58cb",
+    "storage_bucket": "wakeup-b58cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591775893469:android:09d3e84c854a1ba12bd834",
+        "android_client_info": {
+          "package_name": "com.example.wakeup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Z7w_9LKb0Qp-LCVpx77sASPv0y0pctU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
